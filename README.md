@@ -116,7 +116,7 @@ The datasets include information about:
 
 ### IBM Cognos Dashboard
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/Dashboard Stack Overflow.pdf)
 
 ---
 
