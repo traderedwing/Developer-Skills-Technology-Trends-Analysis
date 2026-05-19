@@ -114,7 +114,7 @@ The datasets include information about:
 
 ## Dashboard preview
 
-![Dashboard](./dashboard_preview.png)
+![Dashboard](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/dashboard_peview_1stpage.png)
 
 Full report: [Open PDF](./dashboard.pdf)
 ---
