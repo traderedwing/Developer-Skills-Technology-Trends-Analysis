@@ -116,7 +116,7 @@ The datasets include information about:
 
 ![Dashboard](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/dashboard_peview_1stpage.png)
 
-Full report: [Open PDF](./dashboard.pdf)
+Full report: [Open PDF](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/Dashboard Stack Overflow.pdf)
 ---
 
 ## Repository Structure
