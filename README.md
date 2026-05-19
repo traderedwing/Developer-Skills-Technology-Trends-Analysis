@@ -114,9 +114,9 @@ The datasets include information about:
 
 ## Dashboard preview
 
-![Dashboard](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/dashboard_peview_1stpage.png)
+![Dashboard](EDUCATION%20PROJECT%20-%20IBM%20DATA%20ANALYST%20CAPSTONE/dashboard/dashboard_peview_1stpage.png)
 
-Full report: [Open PDF](EDUCATION PROJECT - IBM DATA ANALYST CAPSTONE/dashboard/Dashboard Stack Overflow.pdf)
+Full report: [Open PDF](EDUCATION%20PROJECT%20-%20IBM%20DATA%20ANALYST%20CAPSTONE/dashboard/Dashboard%20Stack%20Overflow.pdf)
 ---
 
 ## Repository Structure
